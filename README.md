@@ -291,7 +291,7 @@
         </div>
 
         <div class="owner-buttons">
-            <a href="Https://t.me/alisaflankova" class="owner-button" target="_blank">OWNER</a>
+            <a href="Https://t.me/weizovv" class="owner-button" target="_blank">OWNER</a>
             <a href="Https://t.me/AlOsint" class="owner-button" target="_blank">CO OWNER</a>
         </div>
     </div>
